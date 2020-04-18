@@ -1,10 +1,10 @@
 {
     "short_name": "Twittor",
     "name": "Twittor para heroes",
-    "background_color": "#0d47a1",
+    "background_color": "#3498db",
     "display": "standalone",
     "orientation": "portrait",
-    "theme_color": "#0d47a1",
+    "theme_color": "#3498db",
     "icons": [
         {
             "src": "img/icons/icon-72x72.png",
